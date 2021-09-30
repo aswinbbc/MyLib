@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyLib</string>
+    <string name="URL">url</string>
+    <string name="USERID">id</string>
+</resources>
